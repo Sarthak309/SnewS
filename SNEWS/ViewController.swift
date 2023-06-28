@@ -34,6 +34,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
         fetchTopStories()
         createSearchBar()
+        
     }
     
     override func viewDidLayoutSubviews() {
